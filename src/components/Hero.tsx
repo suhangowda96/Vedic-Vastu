@@ -73,7 +73,7 @@ export default function Hero() {
         <FaWhatsapp size={26} />
       </a>
       <a
-        href="tel:+971503937928"
+        href="tel:+971555671544"
         className="fixed bottom-6 right-6 z-50 w-14 h-14 gold-gradient rounded-full flex items-center justify-center text-dark-900 shadow-lg hover:opacity-90 transition-opacity"
         aria-label="Call us"
       >
