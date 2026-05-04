@@ -54,7 +54,7 @@ export default function ContactPage() {
 
               <div className="space-y-6 mb-8">
                 <a
-                  href="tel:+971503937928"
+                  href="tel:+971555671544"
                   className="flex items-start gap-4 group"
                 >
                   <div className="w-12 h-12 rounded-sm gold-gradient flex items-center justify-center shrink-0 group-hover:opacity-90 transition-opacity">
@@ -64,7 +64,7 @@ export default function ContactPage() {
                     <p className="font-serif text-lg font-semibold text-dark-800">
                       Phone
                     </p>
-                    <p className="text-dark-500 text-sm">+971 503937928</p>
+                    <p className="text-dark-500 text-sm">+971 555671544</p>
                   </div>
                 </a>
 
